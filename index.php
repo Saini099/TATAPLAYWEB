@@ -503,7 +503,7 @@ $category = ''; // Define the $category variable
         <div class="mb-5 opacity-100">
           <h2 class="text-center text-sm font-bold"><?php echo $channel['channel_name']; ?></h2>
           <div class="flex justify-center space-x-1">
-            <p class="text-xs text-center">LOKIIPTV: <?php echo $channel['channel_genre']; ?></p>
+            <p class="text-xs text-center">TATAPLAYJIOTV: <?php echo $channel['channel_genre']; ?></p>
           </div>
         </div>
       </div>
